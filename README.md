@@ -1,13 +1,14 @@
 # cas_plugin
 
-Use CasScale native SDK in flutter
-Measurement only weight
+Use CasScale native SDK in flutter.
+
+Measurement only weight.
 
 ## Preparing setting
 
 ### Android
 
-- AndroidManifext.xml
+- android/app/AndroidManifext.xml
 ```
 <!-- Request legacy Bluetooth permissions on older devices. -->
 <uses-permission android:name="android.permission.BLUETOOTH"
@@ -24,6 +25,16 @@ Measurement only weight
 <!-- Needed only if your app communicates with already-paired Bluetooth
      devices. -->
 <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+```
+
+
+- android/app/build.gradle
+```
+defaultConfig {
+        ...
+        minSdkVersion 19
+        ...
+    }
 ```
 
 ### IOS
