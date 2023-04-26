@@ -1,0 +1,2 @@
+/Users/pedro/StudioProjects/cas_plugin/ios/ICDeviceManager.framework/ICDeviceManager filter=lfs diff=lfs merge=lfs -text
+ios/ICDeviceManager.framework/ICDeviceManager filter=lfs diff=lfs merge=lfs -text
