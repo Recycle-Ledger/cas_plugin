@@ -2,9 +2,7 @@
 
 Use CasScale native SDK in flutter.
 
-Measurement only weight.
-
-## Preparing setting
+## Getting Started
 
 ### Android
 
