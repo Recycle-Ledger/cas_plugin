@@ -19,7 +19,7 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/permission_handler_apple/ios"
 
 SPEC CHECKSUMS:
-  cas_plugin: 4175491d28e8e6fed52e6fb40831c25660c44640
+  cas_plugin: b8ea1a4ab9d59d08e79bb093304201ebff8c5d4a
   Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
   permission_handler_apple: 44366e37eaf29454a1e7b1b7d736c2cceaeb17ce
 
